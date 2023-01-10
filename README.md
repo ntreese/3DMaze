@@ -9,6 +9,9 @@ This maze implementation currently generates a new Maze every time the Program i
 Camera Controls:
 
 Mouse: Camera Rotation
+
 WASD: Move mouse up/down or side to side
+
 Shift: Movement Boost
+
 R: Reset camera to original Position
