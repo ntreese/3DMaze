@@ -91,6 +91,55 @@ public static class Generator
 
             cell = n;
         }
+
+
+        for (int i = 1; i < sizeX * 2 - 1; i += 2)
+        {
+            for (int j = 1; j < sizeY * 2 - 1; j += 2)
+            {
+                maze[i, j] = 1;
+                int count = 0;
+                List <Cell> neighbors = new List<Cell>();
+
+                if(maze[i, j-1] == 1){
+                    Cell n1;
+                    n1.x = i;
+                    n1.y = j-1;
+                    neighbors.Add(n1);
+                    count ++;
+                }
+                if(maze[i -1, j] == 1){
+                    Cell n1;
+                    n1.x = i - 1;
+                    n1.y = j;
+                    neighbors.Add(n1);
+                    count ++;
+                }
+                if(maze[i, j+1] == 1){
+                    Cell n1;
+                    n1.x = i;
+                    n1.y = j+1;
+                    neighbors.Add(n1);
+                    count ++;
+                }
+                if(maze[i+1, j] == 1){
+                    Cell n1;
+                    n1.x = i+1;
+                    n1.y = j;
+                    neighbors.Add(n1);
+                    count ++;
+                }
+
+                if (count > 2) {
+                    int v = (int)Mathf.Floor(Random.Range(0, count));
+                    Cell n = neighbors[v];
+                    maze[n.x, n.y] = 0;
+                }
+
+            }
+        }
+
+        
         
         //Debug.Log(maze[0,0]);
         //Debug.Log(maze[5, 5]);
