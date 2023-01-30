@@ -282,7 +282,16 @@
                 {
                     "name": "Menu",
                     "type": "Button",
-                    "id": "f903aa4b-0eeb-4c23-b180-42988abab3ec",
+                    "id": "55eee3c8-2656-4327-9299-03a433130aec",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Primary",
+                    "type": "Button",
+                    "id": "3e1b4727-b0b1-4a4c-b89b-6c53e3b21c03",
                     "expectedControlType": "Button",
                     "processors": "",
                     "interactions": "",
@@ -380,12 +389,23 @@
                 },
                 {
                     "name": "",
-                    "id": "82b0c5a0-6c21-479f-9096-2a880d7b33be",
-                    "path": "<XRController>{LeftHand}/menuButton",
+                    "id": "0194c10c-3e0c-4449-90d6-621e98e46edf",
+                    "path": "<XRController>{LeftHand}/menu",
                     "interactions": "",
                     "processors": "",
-                    "groups": "",
+                    "groups": "Generic XR Controller",
                     "action": "Menu",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "828e7881-6b5f-4e55-8a62-9c4463253410",
+                    "path": "<XRController>{LeftHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "Generic XR Controller",
+                    "action": "Primary",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
@@ -788,6 +808,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": true
+                },
+                {
+                    "name": "Flashlight",
+                    "type": "Button",
+                    "id": "cce4f3a5-c88b-4a8c-8fc0-ce1274fc7cdc",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -876,6 +905,17 @@
                     "processors": "ScaleVector2(x=0),StickDeadzone",
                     "groups": "Generic XR Controller",
                     "action": "Translate Anchor",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "fab08a2a-101f-41f9-a005-36768a772ceb",
+                    "path": "<XRController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Flashlight",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
