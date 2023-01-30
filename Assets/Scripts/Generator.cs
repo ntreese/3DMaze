@@ -1,12 +1,20 @@
+/*
+ *****************************************************************************
+* My C# implementation of Aldous-Broder with some modifications to remove walls. Based on codse by Prof. Dr. Mathias Lux
+*
+* Citation of external code
+* 
+* Title: Aldous-Broder
+* Author: Prof. Dr. Mathias Lux
+* Date: 2022
+* Availability: https://github.com/dermotte/AdvancedTopicsCG-WS2022/blob/master/PCG/04%20Mazes/03%20Aldous-Broder%20Algorithm/sketch.js
+****************************************************************************
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-/*
- * Aldous-Broder C# implementation. 
- * Code based on Prof. Dr. Mathias Lux JavaScript implementation
- * Original Sourcecode : https://github.com/dermotte/AdvancedTopicsCG-WS2022/blob/master/PCG/04%20Mazes/03%20Aldous-Broder%20Algorithm/sketch.js
- */
 public static class Generator
 {
     private static int[,] maze = null;

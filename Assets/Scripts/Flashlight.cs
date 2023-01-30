@@ -13,7 +13,6 @@ public class Flashlight : MonoBehaviour
     {
         if (showButton.action.WasPressedThisFrame())
         {
-            //lightsource.SetActive(!lightsource.activeSelf);
             lightsource.enabled = !lightsource.enabled;
         }
     }
