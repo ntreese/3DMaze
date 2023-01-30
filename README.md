@@ -3,7 +3,7 @@
 
 <h2>External Assets:</h2>
 
-<h4>Flashlight</h4>
+<h3>Flashlight</h3>
 
 Author: RRFreelance
 
@@ -13,7 +13,7 @@ Availability: https://assetstore.unity.com/packages/3d/props/electronics/flashli
 
 <h2>Music:</h2>
 
-<h4>Background music</h4>
+<h3>Background music</h3>
 
 Author: 
 
@@ -21,7 +21,7 @@ Date:
 
 Availability: 
 
-<h4>Flashlight sfx</h4>
+<h3>Flashlight sfx</h3>
 
 Author: 
 
