@@ -15,18 +15,18 @@ Availability: https://assetstore.unity.com/packages/3d/props/electronics/flashli
 
 <h3>Background music</h3>
 
-Author: 
+Author: Mr. Pfunked
 
-Date: 
+Date: Sep 11, 2010
 
-Availability: 
+Availability: https://opengameart.org/content/cave-theme
 
 <h3>Flashlight sfx</h3>
 
-Author: 
+Author: Nicole Marie
 
-Date: 
+Date: Jan 2, 2019
 
-Availability: 
+Availability: https://opengameart.org/content/light-switch-on-sfx-sound-effect
 
 
