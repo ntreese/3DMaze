@@ -1,7 +1,7 @@
 <h1>3D VR Maze</h1>
 3D Maze Project in VR for Advanced Computer Graphics WS 2022/23
 
-<h2>External Assets:</h2>
+<h2>3D Assets:</h2>
 
 <h3>Flashlight</h3>
 
