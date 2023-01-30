@@ -1,17 +1,23 @@
-3D Maze Project for Advanced Computer Graphics WS 2022/23
+3D Maze Project in VR for Advanced Computer Graphics WS 2022/23
 
-Aldous-Broder C# implementation. 
-Code based on Prof. Dr. Mathias Lux JavaScript implementation
-Original Sourcecode : https://github.com/dermotte/AdvancedTopicsCG-WS2022/blob/master/PCG/04%20Mazes/03%20Aldous-Broder%20Algorithm/sketch.js
+<h1>External Assets:</h1>
 
-This maze implementation currently generates a new Maze every time the Program is run
+<h4>Flashlight</h4>
 
-Camera Controls:
+Author: RRFreelance
 
-Mouse: Camera Rotation
+Date: 2022
 
-WASD: Move mouse up/down or side to side
+Availability: https://assetstore.unity.com/packages/3d/props/electronics/flashlight-18972
 
-Shift: Movement Boost
+<h1>Music:</h1>
 
-R: Reset camera to original Position
+<h4>Background music</h4>
+
+Author: RRFreelance
+
+Date: 2022
+
+Availability: https://assetstore.unity.com/packages/3d/props/electronics/flashlight-18972
+
+
