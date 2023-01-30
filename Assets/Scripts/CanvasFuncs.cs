@@ -24,8 +24,6 @@ public class CanvasFuncs : MonoBehaviour
     public GameObject menuSlider;
     public GameObject sliderText;
 
-    
-
     public void SetTypeFromIndex(int index)
     {
         if (index == 0)

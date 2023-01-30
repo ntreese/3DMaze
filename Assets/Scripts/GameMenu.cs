@@ -32,7 +32,7 @@ public class GameMenu : MonoBehaviour
         if(showButton.action.WasPressedThisFrame())
         {
             gameMenu.SetActive(!gameMenu.activeSelf);
-            flashLight.SetActive(!gameMenu.activeSelf);
+            //flashLight.SetActive(!gameMenu.activeSelf);
 
             gameMenu.transform.position = Head.position + new Vector3(Head.forward.x, 0, Head.forward.z).normalized * SpawnDistance;
         }
