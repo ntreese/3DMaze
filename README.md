@@ -29,4 +29,12 @@ Date: Jan 2, 2019
 
 Availability: https://opengameart.org/content/light-switch-on-sfx-sound-effect
 
+<h3>Footstep sfx</h3>
+
+Author: Nox_Sound
+
+Date: Jan 5, 2022
+
+Availability: https://assetstore.unity.com/packages/audio/sound-fx/foley/footsteps-essentials-189879
+
 
