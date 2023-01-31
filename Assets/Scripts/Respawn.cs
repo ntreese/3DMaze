@@ -11,6 +11,6 @@ public class Respawn : MonoBehaviour
     public void Restart()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
-        cameraPos = new Vector3(0, 1.1176f, 0);
+        //cameraPos = new Vector3(0, 1.1176f, 0);
     }
 }
