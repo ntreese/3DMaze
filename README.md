@@ -23,7 +23,7 @@ Date: Sep 11, 2010
 
 Availability: https://opengameart.org/content/cave-theme
 
-License: Standard Unity Asset Store EULA
+License: CC-BY 4
 
 <h3>Flashlight sfx</h3>
 
@@ -33,6 +33,8 @@ Date: Jan 2, 2019
 
 Availability: https://opengameart.org/content/light-switch-on-sfx-sound-effect
 
+License: Standard Unity Asset Store EULA
+
 <h3>Footstep sfx</h3>
 
 Author: Nox_Sound
@@ -41,4 +43,5 @@ Date: Jan 5, 2022
 
 Availability: https://assetstore.unity.com/packages/audio/sound-fx/foley/footsteps-essentials-189879
 
+License: Standard Unity Asset Store EULA
 
