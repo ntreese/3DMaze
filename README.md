@@ -11,6 +11,8 @@ Date: Mar 1, 2019
 
 Availability: https://assetstore.unity.com/packages/3d/props/electronics/flashlight-18972
 
+License: Standard Unity Asset Store EULA
+
 <h2>Music:</h2>
 
 <h3>Background music</h3>
@@ -20,6 +22,8 @@ Author: Mr. Pfunked
 Date: Sep 11, 2010
 
 Availability: https://opengameart.org/content/cave-theme
+
+License: Standard Unity Asset Store EULA
 
 <h3>Flashlight sfx</h3>
 
