@@ -33,7 +33,7 @@ Date: Jan 2, 2019
 
 Availability: https://opengameart.org/content/light-switch-on-sfx-sound-effect
 
-License: Standard Unity Asset Store EULA
+License: CC-BY 4
 
 <h3>Footstep sfx</h3>
 
